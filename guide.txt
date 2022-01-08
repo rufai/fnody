@@ -1,0 +1,12 @@
+We are try to build a crud app
+
+1) Create ( registration )
+a) create content  ( fill a form ) 
+b) send the form and handle with node
+c) send from node to the data
+
+2) Read  ( books component )
+a) make a call to our endpoint
+b) endpoint will fetch data
+c) process data on our own
+ 
